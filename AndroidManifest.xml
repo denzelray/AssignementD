@@ -26,6 +26,10 @@
             android:name="edu.drake.assignmentd.SecondActivity"
             android:label="@string/title_activity_second" >
         </activity>
+        <activity
+            android:name="edu.drake.assignmentd.ThirdActivity"
+            android:label="@string/title_activity_third" >
+        </activity>
     </application>
 
 </manifest>

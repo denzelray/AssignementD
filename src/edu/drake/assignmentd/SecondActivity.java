@@ -22,8 +22,8 @@ public class SecondActivity extends Activity {
 	        	@Override
 	        	public void onClick(View v) {
 	        		
-	        		//Intent intent = new Intent(v.getContext(), ThirdActivity.class);
-	        		//startActivity(intent);
+	        		Intent intent = new Intent(v.getContext(), ThirdActivity.class);
+	        		startActivity(intent);
 	        		
 	        	}
 	        });
